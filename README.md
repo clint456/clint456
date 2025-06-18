@@ -4,7 +4,7 @@ I'm an embedded software developer specializing in Go (Golang) and edge computin
 
 ## ⚡ Projects & Interests
 
-- 🧑‍💻 Currently forking and exploring new features for **HelloWorldKeyborad**
+- 🧑‍💻 I'm currently hooked on Typeist, so I'm forking and exploring new features for **HelloWorldKeyborad**
 - ⏭️ Next up: diving into development on **exlink**
 - ✍️ Documenting my learning journey on my blog: [clint456.github.io](https://clint456.github.io)
 
