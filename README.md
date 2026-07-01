@@ -2,7 +2,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=clint456&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=clint456&include_all_commits=true&theme=ocean_dark)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=clint456&langs_count=4&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=clint456&langs_count=4&theme=algolia)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=clint456&langs_count=6&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=clint456&langs_count=4&theme=algolia)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=5&display_format=percent&theme=chartreuse-dark)](https://wakatime.com/@alan)
 
