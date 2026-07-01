@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clint456)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=clint456)](https://github.com/stats-organization/github-stats-extended)
 
 # 👋 About Me
 
