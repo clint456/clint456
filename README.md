@@ -17,7 +17,7 @@ Embedded software developer focusing on **RK3568 embedded development** and **Ed
 
 ## 🛠️ Core Technical Skills
 
-- **Platform**：RK3568, Linux \(Ubuntu\)
+- **Platform**：Linux
 
 - **Framework**：EdgeX Foundry
 
