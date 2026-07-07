@@ -13,7 +13,7 @@ Embedded software developer focusing on **RK3568 embedded development** and **Ed
 
 - **Linux Practice**：Skilled in Ubuntu development and VMware virtualization operation to support embedded project debugging\.
 
-- **Basic Tech \& Documentation**：Familiar with C\+\+ sorting algorithms and CMake compilation; records all technical practices on [clint456\.github\.io](https://clint456.github.io) or [www.clintonluo.com](www.clintonluo.com).
+- **Basic Tech \& Documentation**：Familiar with C\+\+ sorting algorithms and CMake compilation; records all technical practices on [clint456\.github\.io](https://clint456.github.io) or [www.clintonluo.com](https://www.clintonluo.com).
 
 ## 🛠️ Core Technical Skills
 
